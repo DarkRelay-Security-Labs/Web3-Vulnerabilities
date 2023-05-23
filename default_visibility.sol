@@ -1,4 +1,4 @@
-#DEFAULT VISIBILITY ATTACK:
+// Default Visibility Attack
 
 pragma solidity ^0.8.0;
 
