@@ -1,4 +1,4 @@
-#FLOATING AND PRECISION ATTACK: 
+// Floating and Precision Attack 
 
 contract TokenSale {
     uint256 public tokenPrice;
