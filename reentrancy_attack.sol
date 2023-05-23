@@ -1,5 +1,4 @@
-#RETRANCY ATTACK:
-
+// Reentrancy Attack
 function withdraw() public{
   uint bal = balances[msg.sender];
   require(bal > 0);// eth >0
